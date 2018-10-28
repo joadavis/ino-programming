@@ -1,9 +1,10 @@
+// Originally based on
 // Sweep
 // by BARRAGAN <http://barraganstudio.com> 
 // This example code is in the public domain.
 
 // modified for my purposes, to create a k'nex plotter - joadavis
-// having to recreate this a third time, because the arduino ide sux and doesnt auto-save may 2017
+// having to recreate this a third time, because the arduino ide sux and doesnt auto-save (may 2017)
 
 
 #include <Servo.h> 
